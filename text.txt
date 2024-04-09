@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Week1 ma thoi
-=======
 Main va` week1
->>>>>>> main
